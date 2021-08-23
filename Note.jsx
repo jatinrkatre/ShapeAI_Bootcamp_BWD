@@ -6,8 +6,8 @@ function Note() {
       <h1> Javascrpt and React.js </h1>
       <p>
         {" "}
-        This was an amazing bootcamp taken by sir Shaurya Sinha. We covered
-        everything from scratch including javascript ,React.js ,HTML.
+        This project is completely based on basics of reactjs including javascript ,HTML and CSS .
+        This is just demo implementation of basics.
       </p>
     </div>
   );
